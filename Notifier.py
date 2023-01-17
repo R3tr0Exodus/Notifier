@@ -8,7 +8,7 @@ toaster = ToastNotifier()
 def notif():
     toaster.show_toast(
         "Honey, it's 11:45!",
-        "Time for lunch and genocide!",
+        "Time for lunch and mass destruction!",
         duration=5,
         icon_path="pain.ico",
         threaded=True)
